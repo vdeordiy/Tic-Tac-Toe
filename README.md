@@ -2,6 +2,6 @@
 
 A simple tic tac toe game in java
 
-![Tic Tac Toe Sample](images\Sample.png)
+![Tic Tac Toe Sample](images/Sample.png)
 
 
