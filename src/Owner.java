@@ -1,0 +1,1 @@
+public enum Owner {X, O, NOONE}
